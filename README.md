@@ -1,5 +1,5 @@
-#Vito Gunawan (2306149)
 # 🧠 Sistem Pakar Diagnosis Penyakit - Forward & Backward Chaining
+### 👨‍💻 Oleh: **Vito Gunawan** | `2306149`
 
 Selamat datang di proyek **Sistem Pakar Diagnosis Penyakit** berbasis aturan!  
 Sistem ini mampu mendiagnosis beberapa penyakit umum berdasarkan gejala yang kamu alami.  
